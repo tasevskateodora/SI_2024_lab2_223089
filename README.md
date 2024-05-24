@@ -1,12 +1,11 @@
 1. Теодора Тасевска 223089
+2. 
 
 
 
 
 
-
-
-2. ![final1 drawio](https://github.com/tasevskateodora/SI_2024_lab2_223089/assets/164336502/7e233685-dd00-4735-9f88-be74f759f9c4)
+ ![final1 drawio](https://github.com/tasevskateodora/SI_2024_lab2_223089/assets/164336502/7e233685-dd00-4735-9f88-be74f759f9c4)
 
 3. Цикломатската комплексност е 10 бидејќи има 7 if statements и 2 for каде што има услов. Според равенката на тоа додаваме 1 и добиваме дека цикломатската комлексност е 10. 
 4. Според Every Branch критериумот има 7 тест случаи. 
